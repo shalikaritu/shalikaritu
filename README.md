@@ -44,7 +44,7 @@
   <a href="https://www.codechef.com/users/shalikaritu" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5b4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="(https://leetcode.com/u/surgexcode/)" target="_blank">
+  <a href="https://leetcode.com/u/surgexcode" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
 </p>
