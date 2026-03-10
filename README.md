@@ -14,7 +14,7 @@
 
 ## 🚀 About
 - 🎓 B.Tech CSE (AI) @ Motihari College of Engineering (CGPA: **8.32**)
-- 💼 **SDE Intern @ ECera Systems (Remote, USA)**
+- 💼 ** EX SDE Intern @ ECera Systems (Remote, USA)**
 - 🔐 Ex **Cybersecurity Intern @ CyberGyan**
 - 🧠 Strong in **DSA + Problem Solving**
 - 💡 Interests: **Backend | Full-Stack | AI/NLP**
@@ -30,10 +30,9 @@
 ---
 
 ## 🏆 Competitive Programming
-- ⭐ Codeforces: **1488 (Specialist)** | 170+ problems
-- ⭐ CodeChef: **1780 (3★)** | 200+ problems
-- 🏅 Global Rank **204** — CF Round 1035 (Div. 2)
-- 🧠 LeetCode: 300+ problems
+- ⭐ Codeforces: **1605 (Expert)** | 500+ problems
+- ⭐ CodeChef: **1800 (4★)** | 200+ problems
+- 🧠 LeetCode: 500+ problems
 
 ---
 
