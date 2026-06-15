@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About
-- 🎓 B.Tech CSE (AI) @ Motihari College of Engineering (CGPA: **8.32**)
+-** Founder of CODING GURUKUL**
 - ** SDE Intern @ Grass Solution Pvt Ltd. (Jaipur, Rajasthan)**
 - 💼 ** EX SDE Intern @Amigo India (Lucknow , UttarPradesh) || Ex SDE Intern @ ECera Systems (Remote, USA)**
 - 🔐 Ex **Cybersecurity Intern @ CyberGyan**
